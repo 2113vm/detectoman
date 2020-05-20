@@ -1,7 +1,7 @@
 torch
 torchvision
 pycocotools
-numpy
+numpy==1.17
 matplotlib
 Pillow
 dataclasses
